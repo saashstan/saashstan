@@ -1,18 +1,16 @@
 ### Olá! Eu sou a Helena 🌼
 
 
-
 Sou uma estudante de TI, apaixonada por Ruby. Tenho experiência de 1 ano e 5 meses na área de tecnológia, adoro desenvolver códigos na linguagem Ruby e futuramente pretendo me tornar uma desenvolvedora em Ruby e Ruby on rails!
 
-### 💼 Experiência
+### 💬 Experiência
 
 - [Dexco](https://www.dex.co/) - Menor Aprendiz (2021-2022)
 
-### 🚀 Linguagens
+### ⭐ Estudo em andamento
 
-- Linguagens de Programação: Ruby
-- Banco de Dados: MySQL
-- Outras habilidades: Pacote Office, Visual Studio
+- MySQL
+- Ruby
 
 ### 👨‍💻 Projetos Destacados
 
