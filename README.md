@@ -10,6 +10,8 @@ Sou uma estudante de TI, apaixonada por Ruby. Tenho experiência de 1 ano e 5 me
 
 - MySQL
 - Ruby
+- Python
+- SQL
 
 ### 👨‍💻 Projetos Destacados
 
