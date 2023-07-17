@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Helena 🌼
 
-Sou uma estudante de TI, apaixonada por Ruby. Tenho experiência de 1 ano e 5 meses na área de tecnológia, adoro desenvolver códigos na linguagem Ruby e futuramente pretendo me tornar uma desenvolvedora em Ruby e Ruby on rails!
+Sou uma estudante de TI, apaixonada por Ruby. Tenho experiência de 1 ano e 7 meses na área de tecnológia, adoro desenvolver códigos na linguagem Ruby e futuramente pretendo me tornar uma desenvolvedora em Ruby e Ruby on rails!
 
 ### 💬 Experiência
 
