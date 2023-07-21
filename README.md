@@ -8,7 +8,6 @@ Sou uma estudante de TI, apaixonada por Ruby. Tenho experiência de 1 ano e 7 me
 
 ### ⭐ Estudo em andamento
 
-- MySQL
 - Ruby
 - Python
 - SQL
@@ -25,8 +24,3 @@ Sou uma estudante de TI, apaixonada por Ruby. Tenho experiência de 1 ano e 7 me
 <br>
 </p> 
 
-
-<!---
-saashstan/saashstan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
