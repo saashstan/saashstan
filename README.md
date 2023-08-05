@@ -11,6 +11,7 @@ Sou uma estudante de TI, no 4 semestre. Tenho experiência de 1 ano e 7 meses na
 - Ruby
 - Python
 - SQL
+- Java
 
 ### 👨‍💻 Projetos Destacados
 
